@@ -4,6 +4,7 @@ public class Principal
 {
 	public static void main(String[] args)
 	{
-		System.out.println("Hola mundo!");
+		//TODO: Hay que hacer mas cambios
+		System.out.println("Otro mensaje diferente");
 	}
 }
