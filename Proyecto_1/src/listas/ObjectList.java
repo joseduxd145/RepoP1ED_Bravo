@@ -94,7 +94,6 @@ public class ObjectList
 		else
 		{
 			this.alocar(pArray.length - (array.length - size));
-			int tmp = (pArray.length - (array.length - size));
 			int contador = 0;
 			
 			for(int i = 0; i < array.length; i++)
